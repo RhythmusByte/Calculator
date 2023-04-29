@@ -20,6 +20,8 @@
     <img src="https://img.shields.io/badge/Try%20Now-%20-orange?style=for-the-badge&logo=appveyor" alt="Try Now">
   </a>
 
+---
+
 <img alt="GitHub" src="https://img.shields.io/github/license/Akhil-Mahesh/Calculator?logoColor=white&style=plastic">
 
 
@@ -31,7 +33,7 @@
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Akhil-Mahesh/Calculator?color=black&style=plastic">
 
-<img alt="Repo Author" src="https://img.shields.io/badge/Author-Akhil--Mahesh-black
+<img alt="Repo Author" src="https://img.shields.io/badge/Author-Akhil--Mahesh-black&style=plastic">
 
 </p>
 
