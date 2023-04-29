@@ -19,6 +19,13 @@
   <a href="https://github.com/Akhil-Mahesh"><img src="https://img.shields.io/badge/GitHub-Akhil--Mahesh-black?style=flat-square&logo=github"></a>
 </div>
 
+---
+
+<div style="text-align:center;">
+  <a href="https://akhil-mahesh.github.io/Calculator/" style="display:inline-block; background-color:#007bff; color:#fff; padding:10px 20px; text-decoration:none; border-radius:5px; font-weight:bold; text-transform:uppercase;">
+    Try Now <span style="display:inline-block; margin-left:5px;">&#8594;</span>
+  </a>
+</div>
 
 ---
 
