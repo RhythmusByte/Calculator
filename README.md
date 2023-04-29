@@ -15,9 +15,19 @@
 
 ---
 
-<div style="text-align:center">
+<p align="center">
+  <a href="https://akhil-mahesh.github.io/Calculator/" target="_blank">
+    <img src="https://img.shields.io/badge/Try%20Now-%20-orange?style=for-the-badge&logo=appveyor" alt="Try Now">
+  </a>
+</p>
+
   <a href="https://github.com/Akhil-Mahesh"><img src="https://img.shields.io/badge/GitHub-Akhil--Mahesh-black?style=flat-square&logo=github"></a>
-</div>
+<p align="center">
+  <a href="https://akhil-mahesh.github.io/Calculator/" target="_blank">
+    <img src="https://img.shields.io/badge/Try%20Now-%20-orange?style=for-the-badge&logo=appveyor" alt="Try Now">
+  </a>
+</p>
+
 
 ---
 
