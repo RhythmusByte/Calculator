@@ -19,9 +19,11 @@
   <a href="https://akhil-mahesh.github.io/Calculator/" target="_blank">
     <img src="https://img.shields.io/badge/Try%20Now-%20-black?style=for-the-badge&logo=appveyor&color=black&logo=size&style=plastic" alt="Try Now">
   </a>
+</p>
 
 ---
 
+<p align="center">
 <img alt="GitHub" src="https://img.shields.io/github/license/Akhil-Mahesh/Calculator?logoColor=white&color=black&logo=size&style=plastic">
 
 
@@ -33,7 +35,7 @@
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Akhil-Mahesh/Calculator?color=black&style=plastic">
 
-<img alt="Repo Author" src="https://img.shields.io/badge/Author-Akhil--Mahesh-black&style=plastic">
+<img alt="Repo Author" src="https://img.shields.io/badge/Author-Akhil--Mahesh-color=black&style=plastic">
 
 </p>
 
