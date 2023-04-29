@@ -29,12 +29,6 @@
 
 ---
 
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/EAAKR8I15yFg0RK5as/giphy.gif" alt="calculator gif" width="125" height="250">
-</div>
-
----
-
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have any suggestions, please create an issue or a pull request.
