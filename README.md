@@ -19,6 +19,20 @@
   <a href="https://akhil-mahesh.github.io/Calculator/" target="_blank">
     <img src="https://img.shields.io/badge/Try%20Now-%20-orange?style=for-the-badge&logo=appveyor" alt="Try Now">
   </a>
+
+<img alt="GitHub" src="https://img.shields.io/github/license/Akhil-Mahesh/Calculator?logoColor=white&style=plastic">
+
+
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Akhil-Mahesh/Calculator?color=black&style=plastic">
+
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Akhil-Mahesh/Calculator?color=black&logo=size&style=plastic">
+
+<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=server%20down&style=plastic&up_color=lime&up_message=online&url=https%3A%2F%2Fakhil-mahesh.github.io%2FCalculator%2F">
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Akhil-Mahesh/Calculator?color=black&style=plastic">
+
+<img alt="Repo Author" src="https://img.shields.io/badge/Author-Akhil--Mahesh-black
+
 </p>
 
 ---
