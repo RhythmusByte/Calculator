@@ -1,0 +1,29 @@
+# OS generated files #
+#######################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Node.js #
+###########
+node_modules/
+
+# Build Output #
+################
+dist/
+build/
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and Editors #
+#####################
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
