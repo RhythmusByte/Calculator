@@ -17,15 +17,15 @@
 
 <p align="center">
   <a href="https://akhil-mahesh.github.io/Calculator/" target="_blank">
-    <img src="https://img.shields.io/badge/Try%20Now-%20-orange?style=for-the-badge&logo=appveyor" alt="Try Now">
+    <img src="https://img.shields.io/badge/Try%20Now-%20-black?style=for-the-badge&logo=appveyor&color=black&logo=size&style=plastic" alt="Try Now">
   </a>
 
 ---
 
-<img alt="GitHub" src="https://img.shields.io/github/license/Akhil-Mahesh/Calculator?logoColor=white&style=plastic">
+<img alt="GitHub" src="https://img.shields.io/github/license/Akhil-Mahesh/Calculator?logoColor=white&color=black&logo=size&style=plastic">
 
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Akhil-Mahesh/Calculator?color=black&style=plastic">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Akhil-Mahesh/Calculator?color=black&logo=size&style=plastic">
 
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Akhil-Mahesh/Calculator?color=black&logo=size&style=plastic">
 
