@@ -15,9 +15,10 @@
 
 ---
 
-<center>
-<a href="https://github.com/Akhil-Mahesh"><img src="https://img.shields.io/badge/GitHub-Akhil--Mahesh-black?style=flat-square&logo=github"></a>
-</center>
+<div style="text-align:center">
+  <a href="https://github.com/Akhil-Mahesh"><img src="https://img.shields.io/badge/GitHub-Akhil--Mahesh-black?style=flat-square&logo=github"></a>
+</div>
+
 
 ---
 
