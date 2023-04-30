@@ -53,11 +53,9 @@
     
 <h2 align="center">Features</h2>
 
-<p align="center">
 * Addition, subtraction, multiplication, and division operations
 * User-friendly interface
 * Clear button to reset the input
-</p>
 
 <hr>
 
