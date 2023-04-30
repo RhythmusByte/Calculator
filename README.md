@@ -23,12 +23,11 @@
 
 ---
 
-<center>
+<p align="center">
 
 <img src="https://media.giphy.com/media/PoG5WwGyOx1N36cMqP/giphy.gif" alt="Mathematics GIF">
 
-
-</center>
+</p>
 
 <hr>
 
