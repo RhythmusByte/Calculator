@@ -1,25 +1,127 @@
+/*
+    This code is created by Akhil Mahesh
+    GitHub - @Akhil-Mahesh
+    Instagram - @akhi_akxu
+    YouTube - @AlonePhilic
+ */
+ 
 .calculator {
+     padding: 10px; 
+     border-radius: 1em;   
+     height: 380px; 
+     width: 400px; 
+     margin: auto; 
+     background-color: #191b28; 
+     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,       rgba(0, 0, 0, 0.23) 0px 6px 6px; 
+    } 
+ 
+.calculator {
+    padding: 10px;
+    border: solid 2px #ccc;
+    border-radius: 5px;
+    height: 380px;
+    width: 400px;
+    margin: auto;
+    background-color: #191b28;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    }
 
-    padding: 10px;
+.display-box { 
+    font-family: 'Orbitron', sans-serif; 
+    background-color: #dcdbe1; 
+    border: solid black 0.5px; 
+    color: black; 
+    border-radius: 5px; 
+    width: 100%; 
+    height: 65%; 
+    } 
 
-    border-radius: 1em;
+    input[type="button"][value="1"], 
+    input[type="button"][value="2"], 
+    input[type="button"][value="3"], 
+    input[type="button"][value="4"], 
+    input[type="button"][value="5"], 
+    input[type="button"][value="6"], 
+    input[type="button"][value="7"], 
+    input[type="button"][value="8"], 
+    input[type="button"][value="9"] { 
+  
+    background-color: black; 
+    color: white; 
+    } 
+  
+    input[type="button"][value="C"] { 
+    background-color: green; 
+    color: white; 
+    } 
 
-    height: 380px;
+    input[type="button"][value="+"], 
+    input[type="button"][value="-"], 
+    input[type="button"][value="/"], 
+    input[type="button"][value="*"], 
+    input[type="button"][value="."],
+    input[type="button"][value="="] { 
 
-    width: 400px;
+    background-color: orange; 
+    color: white; 
+    } 
+  
+.display-box { 
+    background-color: yellow; 
+    } 
+  
+input[type="button"] {  
+    border: none; 
+    outline: none; 
+    padding: 10px; 
+    font-size: 24px; 
+    cursor: pointer; 
+    } 
+  
+input[type="button"] {
+    margin: 5px; 
+    } 
+  
+}
+  
+input[type=button] {  
+    font-family: 'Orbitron', sans-serif; 
+    background-color: #64278f; 
+    color: white; 
+    border: solid black 0.5px; 
+    width: 100%; 
+    border-radius: 5px; 
+    height: 70%; 
+    outline: none; 
+    } 
+  
+input:active[type=button] { 
+    background: #e5e5e5; 
+    -webkit-box-shadow: inset 0px 0px 5px #c1c1c1; 
+    -moz-box-shadow: inset 0px 0px 5px #c1c1c1; 
+    box-shadow: inset 0px 0px 5px #c1c1c1; 
+    } 
+  
+.display-box {   
+   height: 100%; 
+  }
+  
+ #btn { 
+  
+   height: 25%; 
+  
+ }
 
-    margin: auto;
-
-    background-color: #191b28;
-
-    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-
+input[type="button"] {
+  height: 60px;
+  width: 60px;
+  margin: 5px;
+  font-size: 20px;
 }
 
 .calculator {
   padding: 10px;
-  border: solid 2px #ccc;
-  border-radius: 5px;
+  border-radius: 1em;
   height: 380px;
   width: 400px;
   margin: auto;
@@ -27,142 +129,46 @@
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
-
 .display-box {
-
-    font-family: 'Orbitron', sans-serif;
-
-    background-color: #dcdbe1;
-
-    border: solid black 0.5px;
-
-    color: black;
-
-    border-radius: 5px;
-
-    width: 100%;
-
-    height: 65%;
-
+  font-family: 'Orbitron', sans-serif;
+  background-color: #dcdbe1;
+  border: solid black 0.5px;
+  color: black;
+  border-radius: 5px;
+  width: 100%;
+  height: 65%;
 }
 
 input[type="button"][value="1"],
-
 input[type="button"][value="2"],
-
 input[type="button"][value="3"],
-
 input[type="button"][value="4"],
-
 input[type="button"][value="5"],
-
 input[type="button"][value="6"],
-
 input[type="button"][value="7"],
-
 input[type="button"][value="8"],
-
 input[type="button"][value="9"] {
-
   background-color: black;
-
   color: white;
-
 }
 
 input[type="button"][value="C"] {
-
-  background-color: red;
-
+  background-color: green;
   color: white;
-
 }
 
 input[type="button"][value="+"],
-
 input[type="button"][value="-"],
-
 input[type="button"][value="/"],
-
 input[type="button"][value="*"],
-
-input[type="button"][value="."] {
-
-  background-color: blue;
-
+input[type="button"][value="."],
+input[type="button"][value="="] {
+  background-color: orange;
   color: white;
-
 }
 
-.display-box {
-
-  background-color: yellow;
-
-}
-
-input[type="button"] {
-
-  border: none;
-
-  outline: none;
-
-  padding: 10px;
-
-  font-size: 24px;
-
-  cursor: pointer;
-
-}
-
-input[type="button"] {
-
-  margin: 5px;
-
-}
-
-}
-
-input[type=button] {
-
-    font-family: 'Orbitron', sans-serif;
-
-    background-color: #64278f;
-
-    color: white;
-
-    border: solid black 0.5px;
-
-    width: 100%;
-
-    border-radius: 5px;
-
-    height: 70%;
-
-    outline: none;
-
-}
-
-input:active[type=button] {
-
-    background: #e5e5e5;
-
-    -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
-
-    -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
-
-    box-shadow: inset 0px 0px 5px #c1c1c1;
-
-}
-
-.display-box {
-
-  height: 100%;
-
-}
-
-#btn {
-
-  height: 25%;
-
+input[type="button"][value="C"],
+input[type="button"][value="="] {
+  border-radius: 5px;
 }
 
