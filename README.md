@@ -16,9 +16,14 @@
 ---
 
 <p align="center">
-  <a href="https://akhil-mahesh.github.io/Calculator/" target="_blank">
-    <img src="https://img.shields.io/badge/Try%20Now-%20-black?style=for-the-badge&logo=appveyor&color=black&logo=size&style=plastic" alt="Try Now">
-  </a>
+  <a href="https://akhil-mahesh.github.io/Calculator/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Try%20Now-%20-black?style=social&logo=appveyor&color=black" alt="Try Now">
+</a>
+
+<a href="https://calculator-snowy-alpha.vercel.app/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Check%20it%20out-%20-black?style=social&logo=vercel&color=black" alt="Check it out">
+</a>
+
 </p>
 
 ---
