@@ -30,7 +30,7 @@
 
 </center>
 
----
+<hr>
 
 <p align="center">
 <img alt="GitHub" src="https://img.shields.io/github/license/akhil-mahesh/calculator?color=black&logo=github&style=plastic">
@@ -49,28 +49,30 @@
 
 </p>
 
----
-
-<center>
+<hr>
     
-## Features
+<h2 align="center">Features</h2>
 
+<p align="center">
 * Addition, subtraction, multiplication, and division operations
 * User-friendly interface
 * Clear button to reset the input
+</p>
 
----
+<hr>
 
-## Contributing
+<h2 align="center">Contributing</h2>
 
+<p align="center">
 Contributions are welcome! If you find any bugs or have any suggestions, please create an issue or a pull request.
+</p>
 
----
+<hr>
 
-## License
+<h2 align="center">Licence</h2>
 
+<p align="center">
 This calculator script is licensed under the <a href="https://github.com/Akhil-Mahesh/Calculator/blob/72afa24a034b06f50881c6989dbf126792d39896/LICENSE">MIT License</a>
+</p>
 
----
-
-</center>
+<hr>
