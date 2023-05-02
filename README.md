@@ -51,7 +51,9 @@
 
 <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/akhil-mahesh/calculator?color=black&logo=GitHub&style=plastic">
 
-<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&logo=vercel&style=plastic&up_color=lime&up_message=working&url=https%3A%2F%2Fcalculator-snowy-alpha.vercel.app%2F">
+<img alt="Website" src="https://img.shields.io/website?color=black&down_color=red&down_message=offline&label=Replit%20Try%20Now&logo=replit&style=plastic&up_color=lime&up_message=working&url=https%3A%2F%2Fcalculator.akhil-mahesh.repl.co%2F">
+
+<img alt="Website" src="https://img.shields.io/website?color=black&down_color=red&down_message=offline&label=Vercel%20Try%20Now&logo=vercel&style=plastic&up_color=lime&up_message=working&url=https%3A%2F%2Fcalculator-snowy-alpha.vercel.app%2F">
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Akhil-Mahesh/Calculator?color=black&style=plastic&logo=github">
 
