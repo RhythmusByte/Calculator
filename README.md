@@ -16,13 +16,13 @@
 ---
 <p align="center">
 <a href="https://calculator.akhil-mahesh.repl.co/" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Use%20it%20now-%20-black?style=social&logo=replit&color=black" alt="Check it out">
+  <img src="https://img.shields.io/badge/Try%20Now-%20-black?style=social&logo=replit&color=black" alt="Try Now">
 </a>
 </p>
 <hr>
 <p align="center">
 <a href="https://calculator-snowy-alpha.vercel.app/" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Check%20it%20out-%20-black?style=social&logo=vercel&color=black" alt="Check it out">
+  <img src="https://img.shields.io/badge/Try%20Now-%20-black?style=social&logo=vercel&color=black" alt="Try Now">
 </a>
 </p>
 <hr>
