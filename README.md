@@ -14,7 +14,12 @@
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=00A5F7&width=435&height=100&lines=This+is+a+Calculator+Script;developed+using;HTML%2C+CSS+and+JavaScript.;It+provides+basic+arithmetic;operations+with+a+;user-friendly+interface." alt="Description" /></h2>
 
 ---
-
+<p align="center">
+<a href="https://calculator.akhil-mahesh.repl.co/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Use%20it%20now-%20-black?style=social&logo=repl.it&color=black" alt="Check it out">
+</a>
+</p>
+<hr>
 <p align="center">
 <a href="https://calculator-snowy-alpha.vercel.app/" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/Check%20it%20out-%20-black?style=social&logo=vercel&color=black" alt="Check it out">
