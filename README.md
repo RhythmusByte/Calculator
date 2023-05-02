@@ -62,14 +62,6 @@
 </p>
 
 <hr>
-    
-<h2 align="center">Features</h2>
-
-* Addition, subtraction, multiplication, and division operations
-* User-friendly interface
-* Clear button to reset the input
-
-<hr>
 
 <h2 align="center">Contributing</h2>
 
