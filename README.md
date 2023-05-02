@@ -16,7 +16,7 @@
 ---
 <p align="center">
 <a href="https://calculator.akhil-mahesh.repl.co/" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Use%20it%20now-%20-black?style=social&logo=repl.it&color=black" alt="Check it out">
+  <img src="https://img.shields.io/badge/Use%20it%20now-%20-black?style=social&logo=replit&color=black" alt="Check it out">
 </a>
 </p>
 <hr>
