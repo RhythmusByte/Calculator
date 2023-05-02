@@ -57,7 +57,7 @@
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Akhil-Mahesh/Calculator?color=black&style=plastic&logo=github">
 
-<img alt="Repo Author" src="https://img.shields.io/badge/Author-Akhil--Mahesh-color=black&?style=plastic&logo=github">
+<img alt="Repo Author" src="https://img.shields.io/badge/Author-Akhil--Mahesh-color=black&?color=black&style=plastic&logo=github">
 
 </p>
 
