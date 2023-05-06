@@ -139,6 +139,7 @@ input[type="button"] {
   height: 65%;
 }
 
+input[type="button"][value="0"],
 input[type="button"][value="1"],
 input[type="button"][value="2"],
 input[type="button"][value="3"],
@@ -169,6 +170,6 @@ input[type="button"][value="="] {
 
 input[type="button"][value="C"],
 input[type="button"][value="="] {
-  border-radius: 5px;
+  border-radius: 15px;
 }
 
