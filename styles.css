@@ -105,12 +105,6 @@ input:active[type=button] {
 .display-box {   
    height: 100%; 
   }
-  
- #btn { 
-  
-   height: 25%; 
-  
- }
 
 input[type="button"] {
   height: 60px;
